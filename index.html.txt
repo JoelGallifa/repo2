@@ -1,0 +1,14 @@
+<html>
+	<h2>FORTNITE</h2>
+		<p>Aquest joc marcara un abans i un després en l'epoca dels videojocs. Tothom recorda l'epoca del Fortnite en el 2019, però hem de pensar, que ningun joc serà estable, però aqui arribara, serà impresionant</p>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/YYXip4XMvd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<h4>Podràs veure el nou video el pròxim 15/12/2021!!</h4>
+		
+		<img src="imatges/foortnite.png" alt="foortnite" width="250" height="250">
+		<audio src="audio/default.mp3" controls autoplay> </audio>
+
+		<p>Instagram: j_gallifa05</p> 
+		<p>Youtube: gallifa_x</p>
+		<p>Tweeter: joelgallifa</p>
+</html>
